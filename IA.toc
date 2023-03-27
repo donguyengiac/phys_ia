@@ -3,11 +3,11 @@
 \contentsline {section}{\numberline {3}Theory \& Background Knowledge}{3}{}%
 \contentsline {section}{\numberline {4}Hypothesis}{4}{}%
 \contentsline {section}{\numberline {5}Variables}{4}{}%
-\contentsline {section}{\numberline {6}Experimental Setup}{4}{}%
+\contentsline {section}{\numberline {6}Experimental Setup}{5}{}%
 \contentsline {subsection}{\numberline {6.1}Apparatus}{5}{}%
 \contentsline {subsection}{\numberline {6.2}Method}{6}{}%
 \contentsline {subsection}{\numberline {6.3}Risk Assessment}{6}{}%
-\contentsline {section}{\numberline {7}Raw Data Table}{6}{}%
+\contentsline {section}{\numberline {7}Raw Data Table}{7}{}%
 \contentsline {section}{\numberline {8}Processed Data Table}{7}{}%
 \contentsline {section}{\numberline {9}Example Calculations}{8}{}%
 \contentsline {section}{\numberline {10}Processing \& Graphs}{8}{}%
